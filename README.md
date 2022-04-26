@@ -2,9 +2,14 @@
 Задание 1. 
 
 Консольная версия:
+
   Команда добавления: php console.php add {key} {value}
+  
   Команда удаления:   php console.php del {key}
+  
   Команда просмотра:  php console.php show {key}
+  
+  
   
 
 Задание 2.  
